@@ -1,0 +1,31 @@
+{
+  "name": "install-on-require",
+  "version": "1.0.0",
+  "description": "automatically save installs required modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:davidgruebl/install-on-require.git"
+  },
+  "author": "David Thomas Grübl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidgruebl/install-on-require/issues"
+  },
+  "homepage": "https://github.com/davidgruebl/install-on-require#readme",
+  "dependencies": {
+    "detective": "^4.2.0",
+    "detective-es6": "^1.1.2",
+    "is-builtin-module": "^1.0.0",
+    "walker": "^1.0.7"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1"
+  }
+}
