@@ -19,7 +19,11 @@
   "dependencies": {
     "detective": "^4.2.0",
     "detective-es6": "^1.1.2",
+    "es6-promisify": "^3.0.0",
+    "findit": "^2.0.0",
     "is-builtin-module": "^1.0.0",
+    "npm-registry-client": "^7.0.7",
+    "pkginfo": "^0.3.0",
     "walker": "^1.0.7"
   },
   "engines": {
