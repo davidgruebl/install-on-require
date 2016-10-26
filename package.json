@@ -18,17 +18,17 @@
   "homepage": "https://github.com/davidgruebl/install-on-require#readme",
   "dependencies": {
     "detective": "^4.2.0",
-    "es6-promisify": "^3.0.0",
+    "es6-promisify": "^5.0.0",
     "findit": "^2.0.0",
     "is-builtin-module": "^1.0.0",
     "npm-registry-client": "^7.0.7",
-    "pkginfo": "^0.3.0",
+    "pkginfo": "^0.4.0",
     "walker": "^1.0.7"
   },
   "engines": {
     "node": ">= 4"
   },
   "devDependencies": {
-    "standard": "^5.3.1"
+    "standard": "^8.5.0"
   }
 }
